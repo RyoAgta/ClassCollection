@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Pert13\Pert13\bin\Debug\net6.0\Pert13.exe
+C:\Users\ASUS\source\repos\Pert13\Pert13\bin\Debug\net6.0\Pert13.deps.json
+C:\Users\ASUS\source\repos\Pert13\Pert13\bin\Debug\net6.0\Pert13.runtimeconfig.json
+C:\Users\ASUS\source\repos\Pert13\Pert13\bin\Debug\net6.0\Pert13.dll
+C:\Users\ASUS\source\repos\Pert13\Pert13\bin\Debug\net6.0\Pert13.pdb
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.dll
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\refint\Pert13.dll
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.pdb
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\Pert13.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Pert13\Pert13\obj\Debug\net6.0\ref\Pert13.dll
